@@ -31,7 +31,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@discordjs/builders": "^0.13.0",
+    "@discordjs/builders": "^1.7.0",
     "@discordjs/rest": "^0.4.1",
     "@types/fs-extra": "^9.0.13",
     "better-sqlite3": "^7.5.3",
